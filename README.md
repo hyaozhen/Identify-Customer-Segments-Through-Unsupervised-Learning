@@ -6,4 +6,4 @@
 
 • Conducted dimensionality reduction using PCA for keeping the 85% variability explained with scikit-learn and Clustered the data into groups using the k-means
 
-• Identifiedfacetsofthepopulationthataremostlikelytobepurchasersoftheirproductsforamail-outcampaignDevelopedanend-to-end ML/Data pipeline application for data cleaning and unsupervised learning conduct
+• Identified facets of the population that are most likely to be purchasers of their products for a mail-out campaign Developed an end-to-end ML/Data pipeline application for data cleaning and unsupervised learning conduct
